@@ -2,3 +2,8 @@
 name = "scaf"
 version = "0.9.0"
 edition = "2021"
+license = "MIT"
+description = "Create text from templates."
+homepage = "https://github.com/trip-flip/scaf"
+repository = "https://github.com/trip-flip/scaf"
+readme = "README.md"
